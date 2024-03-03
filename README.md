@@ -1,7 +1,6 @@
 <H3> NAME: E.KARTHIKA</H3> 
 <H3>REGISTER NO.212222040072</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -92,7 +91,7 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-Missing Values:
+<b>Missing Values:<b>
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/3f598cc5-1c61-42e5-8092-792856c8bccc)
 
 Duplicates:
