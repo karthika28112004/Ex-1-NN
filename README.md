@@ -91,22 +91,22 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-Missing Values:
+## Missing Values:
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/3f598cc5-1c61-42e5-8092-792856c8bccc)
 
-Duplicates:
+## Duplicates:
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/94695543-59ee-4277-bfb8-b6dfec2ba167)
 
-Outliers:
+## Outliers:
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/ac08e45b-e585-40ae-b519-a4493207abaa)
 
-Normalized dataset:
+## Normalized dataset:
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/1aa074ae-662a-4732-8a0d-5c677c623b26)
 
-Input and Output:
+## Input and Output:
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/16cb6468-fb5d-4bcf-87dd-1edce06a866b)
 
-Training and Dataset:
+## Training and Dataset:
 ![image](https://github.com/karthika28112004/Ex-1-NN/assets/128035087/52e4de80-7b71-4afc-859b-f20f68ba14fd)
 
 ## RESULT:
