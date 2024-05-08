@@ -36,6 +36,8 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+
+```
 #import libraries
 
 import pandas as pd
@@ -88,6 +90,8 @@ print("\nLenght of X_train ",len(X_train))
 print("\nX_test\n")
 print(X_test)
 print("\nLenght of X_test ",len(X_test))
+
+```
 
 
 ## OUTPUT:
